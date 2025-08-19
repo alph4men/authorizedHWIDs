@@ -1,6 +1,7 @@
 175325865;[Admin] Sony TT
 1040816993;[Admin] Sony Bureau) 
 1950549221;Nicolas Navarro Bureau
-30680069855;Teddy [BETA]
+;Teddy [BETA]
+
 
 
